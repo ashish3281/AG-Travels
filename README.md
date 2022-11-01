@@ -1,7 +1,7 @@
 # AG-Travels
 <hr>
 
-visit my website--  ashish3281.github.io/travel-website/
+visit my website--  https://ashish3281.github.io/AG-Travels/
 
 <hr>
 <p>India can be truly described as the land of temples; a land that pulsates with the devotion of the natives; a land where the tolling of the bells, the smell of the incense sticks and camphor permeate the air venerating the innumerable Gods, as per the Hindu religion. In this land there are seven holy tirthas or pilgrimage centres known as the Sapta Puri, where Gods in different incarnations known as avatars are believed to have descended. Sapta means seven and Puri means a town. It is believed that if one makes a pilgrimage to all the seven centres, one will attain Moksha or salvation. The word Teertha is derived from the Sanskrit word Tri which means to be rid of all sins, and the seven teerthas of spiritual importance, as per the Holy Scriptures in India are Ayodhya, Mathura, Dwarka, Haridwar, Varanasi (Benaras, Kashi), Kanchipuram, and Ujjain (Avanti).</p>
